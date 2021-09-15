@@ -11,8 +11,6 @@ sites:
     url: https://blitzen.axinja.net
   - name: topmail.cc
     url: https://www.topmail.cc
-  - name: offline
-    url: https://offline.axinja.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
