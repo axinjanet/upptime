@@ -9,11 +9,8 @@ sites:
     url: https://tea.axinja.cloud
   - name: blitzen.axinja.net
     url: https://blitzen.axinja.net
-  - name: SMTP
-    check: "tcp-ping"
-    url: mail.neomx.de
   - name: topmail.cc
-    url: https:/www.topmail.cc
+    url: https://www.topmail.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
