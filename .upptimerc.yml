@@ -6,11 +6,11 @@ sites:
   - name: axinja cloud main
     url: https://www.axinja.cloud
   - name: tea.axinja.cloud
-    url: https://tea.axinja.cloud
+    url: $URL_TEA
   - name: blitzen.axinja.net
-    url: https://blitzen.axinja.net
+    url: $URL_BLITZEN
   - name: topmail.cc
-    url: https://www.topmail.cc
+    url: $URL_TOPMAIL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
