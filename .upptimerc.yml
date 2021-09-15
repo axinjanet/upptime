@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: axinjanet.github.io/upptime/
+  cname: axinjanet.github.io/upptime
   baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://ximg.cc/images/2021/09/15/e0bfed358382d5ac5f53651b4377a234.png
