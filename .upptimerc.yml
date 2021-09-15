@@ -5,9 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: axinja cloud main
     url: https://www.axinja.cloud
-  - name: tea.axinja.cloud
+  - name: Cloud TEA
     url: $URL_TEA
-  - name: blitzen.axinja.net
+  - name: Webhost blitzen
     url: $URL_BLITZEN
   - name: topmail.cc
     url: $URL_TOPMAIL
