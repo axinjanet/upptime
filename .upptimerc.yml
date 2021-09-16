@@ -33,7 +33,7 @@ status-website:
     - title: axinja.cloud
       href: https://www.axinja.cloud
       
- workflowSchedule:
+workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
   staticSite: "0/15 * * * *"
