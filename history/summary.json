@@ -1,42 +1,22 @@
 [
   {
-    "name": "axinja cloud main",
-    "url": "$URL_AXINJACLOUD",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "axinja-cloud-main",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 449,
-    "timeDay": 437,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
-    "dailyMinutesDown": {
-      "2021-09-19": 0
-    }
-  },
-  {
     "name": "Cloud BEA",
     "url": "$URL_BEA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-bea",
-    "status": "down",
-    "uptime": "9.37%",
-    "uptimeDay": "9.37%",
-    "uptimeWeek": "9.37%",
-    "uptimeMonth": "9.37%",
-    "uptimeYear": "9.37%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "status": "up",
+    "uptime": "2.42%",
+    "uptimeDay": "2.42%",
+    "uptimeWeek": "2.42%",
+    "uptimeMonth": "2.42%",
+    "uptimeYear": "2.42%",
+    "time": 709,
+    "timeDay": 709,
+    "timeWeek": 709,
+    "timeMonth": 709,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2021-09-19": 0
+      "2021-09-19": 5
     }
   },
   {
@@ -50,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 895,
-    "timeDay": 939,
-    "timeWeek": 895,
-    "timeMonth": 895,
-    "timeYear": 895,
+    "time": 892,
+    "timeDay": 920,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 460,
-    "timeWeek": 452,
-    "timeMonth": 452,
-    "timeYear": 452,
+    "time": 449,
+    "timeDay": 444,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   },
   {
@@ -87,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 111,
+    "timeDay": 106,
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
