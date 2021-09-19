@@ -4,9 +4,9 @@
     "url": "https://www.axinja.cloud",
     "icon": "https://favicons.githubusercontent.com/www.axinja.cloud",
     "slug": "axinja-cloud-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-19": 0
+    }
   },
   {
     "name": "Cloud TEA",
