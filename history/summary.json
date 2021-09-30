@@ -40,18 +40,20 @@
     "url": "$URL_TOPMAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "topmail-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 436,
-    "timeWeek": 417,
-    "timeMonth": 444,
-    "timeYear": 444,
-    "dailyMinutesDown": {}
+    "time": 434,
+    "timeDay": 272,
+    "timeWeek": 378,
+    "timeMonth": 434,
+    "timeYear": 434,
+    "dailyMinutesDown": {
+      "2021-09-30": 0
+    }
   },
   {
     "name": "neomx",
