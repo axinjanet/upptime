@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-bea",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 881,
-    "timeDay": 1001,
-    "timeWeek": 957,
-    "timeMonth": 881,
-    "timeYear": 881,
-    "dailyMinutesDown": {
-      "2021-10-15": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 885,
+    "timeDay": 1014,
+    "timeWeek": 962,
+    "timeMonth": 885,
+    "timeYear": 885,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webhost blitzen",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 953,
+    "time": 923,
+    "timeDay": 940,
     "timeWeek": 936,
-    "timeMonth": 922,
-    "timeYear": 922,
+    "timeMonth": 927,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 430,
-    "timeWeek": 461,
-    "timeMonth": 441,
+    "timeDay": 452,
+    "timeWeek": 459,
+    "timeMonth": 440,
     "timeYear": 441,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 112,
-    "timeWeek": 111,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "time": 106,
+    "timeDay": 114,
+    "timeWeek": 112,
+    "timeMonth": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
