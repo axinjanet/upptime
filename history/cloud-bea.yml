@@ -1,7 +1,7 @@
 url: $URL_BEA
-status: down
-code: 503
-responseTime: 562
-lastUpdated: 2021-11-09T20:52:31.223Z
+status: up
+code: 200
+responseTime: 3523
+lastUpdated: 2021-11-09T20:57:44.996Z
 startTime: Sun Sep 19 2021 19:25:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
