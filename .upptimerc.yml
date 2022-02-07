@@ -3,14 +3,7 @@ owner: axinjanet # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Webhost blitzen
-    url: $URL_BLITZEN
-  - name: topmail.cc
-    url: $URL_TOPMAIL
-  - name: neomx
-    check: "tcp-ping"
-    port: 587
-    url: $URL_SMTP
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
