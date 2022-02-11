@@ -4,9 +4,9 @@
     "url": "$URL_BLITZEN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "webhost-prancer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1128,
     "timeMonth": 1128,
     "timeYear": 1128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   }
 ]
