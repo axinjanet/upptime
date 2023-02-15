@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhost-prancer",
     "status": "up",
-    "uptime": "92.98%",
+    "uptime": "93.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "93.48%",
-    "time": 358,
-    "timeDay": 302,
-    "timeWeek": 263,
-    "timeMonth": 286,
-    "timeYear": 346,
+    "uptimeYear": "93.75%",
+    "time": 359,
+    "timeDay": 627,
+    "timeWeek": 319,
+    "timeMonth": 296,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2023-01-25": 27,
       "2023-01-19": 17,
@@ -49,8 +49,7 @@
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
-      "2022-02-16": 1440,
-      "2022-02-15": 1440
+      "2022-02-16": 1440
     }
   }
 ]
