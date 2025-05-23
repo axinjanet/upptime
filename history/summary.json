@@ -4,7 +4,7 @@
     "url": "$URL_BLITZEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhost-prancer",
-    "status": "up",
+    "status": "down",
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
@@ -16,6 +16,7 @@
     "timeMonth": 289,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2025-05-23": 0,
       "2025-05-21": 23,
       "2025-05-19": 49,
       "2025-05-16": 18,
