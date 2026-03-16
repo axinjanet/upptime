@@ -6,17 +6,17 @@
     "slug": "webhost-prancer",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "95.98%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "96.12%",
     "uptimeYear": "99.08%",
     "time": 299,
-    "timeDay": 338,
-    "timeWeek": 314,
-    "timeMonth": 317,
+    "timeDay": 322,
+    "timeWeek": 319,
+    "timeMonth": 319,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-03-15": 68,
+      "2026-03-15": 54,
       "2026-03-14": 70,
       "2026-03-11": 206,
       "2026-03-10": 55,
@@ -77,7 +77,8 @@
       "2025-12-18": 17,
       "2025-12-17": 139,
       "2025-12-16": 49,
-      "2025-12-14": 16
+      "2025-12-14": 16,
+      "2025-12-13": 18
     }
   }
 ]
