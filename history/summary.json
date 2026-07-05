@@ -4,16 +4,16 @@
     "url": "$URL_BLITZEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhost-prancer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "85.39%",
-    "uptimeYear": "98.07%",
+    "uptimeDay": "85.62%",
+    "uptimeWeek": "84.57%",
+    "uptimeMonth": "85.10%",
+    "uptimeYear": "98.04%",
     "time": 298,
-    "timeDay": 268,
-    "timeWeek": 278,
-    "timeMonth": 294,
+    "timeDay": 263,
+    "timeWeek": 277,
+    "timeMonth": 293,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-03-14": 55,
@@ -78,7 +78,7 @@
       "2026-07-02": 359,
       "2026-07-03": 73,
       "2026-07-04": 271,
-      "2026-07-05": 0
+      "2026-07-05": 129
     }
   }
 ]
